@@ -28,3 +28,5 @@ Install dependencies:
 npm install
 Run the development server:
 npm run dev
+Project link :
+https://658afbce189471000826994b--courageous-pegasus-cc2a7e.netlify.app/
