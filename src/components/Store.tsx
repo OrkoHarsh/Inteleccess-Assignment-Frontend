@@ -1,6 +1,6 @@
 import Footer from "./Footer";
 import Store_Products from "./Store_Products";
-import TopAdd from "./TopAdd";
+
 import Latest_Products from "./Latest_Products";
 import Help_is_here from "./Help_is_here";
 import Store_difference from "./Store_difference";
@@ -29,7 +29,7 @@ import {
 function Store() {
 	return (
 		<main>
-			<TopAdd />
+		
 			{/* 1170 */}
 			<div className="mx-auto bg-[#f5f5f7]">
 				{/* ===intro-products=== */}
